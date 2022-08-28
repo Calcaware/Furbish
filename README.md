@@ -1,6 +1,8 @@
 # Furbish/English Translation
 Furby language definitions and translation.
 
+![alt text](https://static.wikia.nocookie.net/official-furby/images/6/63/3333333333.jpg/revision/latest/scale-to-width-down/340?cb=20171203015153)
+
 I made some adjustments from the book that came from the original first generation furby since there were some errors.
 
 ## Translator Usage
