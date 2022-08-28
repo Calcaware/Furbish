@@ -1,8 +1,8 @@
 module.exports = [
 
 	// Extrapolated Compound Words (Custom)
-	[ "dah ay-ay": "behold" ], // Big Look
-	[ "dah u-nye": "human" ], // Big You
+	[ "dah ay-ay", "behold" ], // Big Look
+	[ "dah u-nye", "human" ], // Big You
 	[ "dah boo doo-ay u-nye", "man", "boy" ], // Big No Fun You
 	[ "dah doo-ay u-nye", "woman", "girl" ], // Big Fun You
 	[ "dah a-loh u-tye", "sunrise" ], // Big Light Up
