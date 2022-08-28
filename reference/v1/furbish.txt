@@ -1,0 +1,55 @@
+// Native Words
+ay-ay = look/see
+ah-may = pet
+a-loh = light
+a-tay = hungry/eat
+boh-bay = worry
+boo = no
+dah = big
+doo = (what/where/?)
+doo-ay = fun
+doo-moh = please (request for something)
+e-day = good
+e-tah = yes
+kah = me
+koh-koh = again
+koo-doh = health
+lee-koo = sound
+loo-loo = joke
+may-may = love
+may-lah = hug
+may-tah = kiss
+mee-mee = very
+nah-bah = down
+nee-tye = tickle
+noh-lah = dance
+noo-loo = happy
+toh-dye = done
+toh-loo = like
+u-nye = you
+u-tye = up
+wah = (yeah/!)
+way-loh = sleep
+wee-tee = sing
+
+// Non-Native Words
+may-bee = (broken english [maybe] {no direct translation})
+o-kay = (broken english [okay] {no direct translation})
+who-bye = (broken english [hide] {no direct translation})
+
+// Unclassified (Informal) Words
+oh-to-mah = ask ([no direct translation])
+
+// Compound Words
+dah a-loh = big light (sun)
+ay-loh may-lah = light hug (cloud)
+ay-ay lee-koo = look/see sound (listen)
+dah boh-bay = big worried (scared)
+
+// Example Sentences
+ay-ay lee-koo kah wah = (look/see sound [listen] me ! {listen to me!})
+u-nye ay-ay lee-koo kah = (you look/see sound [listen] me ? { You listen(ing) to me? })
+kah dah boh-bay = me big worry (I'm scared)
+kah dah boh-bay u-nye = me big worry you (I'm scared of you./I scared you)
+oh-too-mah u-nye dah boh-bay kah doo = ((ask) you scared of me ?)
+kah may-may ay-ay dah a-loh nah-bah = I love see big light down (I love to watch the sunset)
