@@ -1,7 +1,19 @@
 module.exports = [
 
-	// Compound Words
-	[ "dah a-loh nah-bah", "sunset" ],
+	// Extrapolated Compound Words (Custom)
+	[ "dah ay-ay": "behold" ], // Big Look
+	[ "dah u-nye": "human" ], // Big You
+	[ "dah boo doo-ay u-nye", "man", "boy" ], // Big No Fun You
+	[ "dah doo-ay u-nye", "woman", "girl" ], // Big Fun You
+	[ "dah a-loh u-tye", "sunrise" ], // Big Light Up
+	[ "dah a-loh u-tye toh-dye", "day" ], // Big Light Up Done
+	[ "dah a-loh nah-bah", "sunset" ], // Big Light Down
+	[ "dah a-loh nah-bah toh-dye", "night" ], // Big Light Down Done
+	[ "dah a-loh u-tye nah-bah", "twilight" ], // Big Light Up Down (Alternate)
+	[ "dah a-loh u-tye nah-bah boo toh-dye", "twilight" ], // Big Light Up Down No Done (Alternate)
+	[ "dah ay-ay dah a-loh u-tye nah-bah dah boo doo-ay u-nye", "behold the twilight of man" ], // From The Mitchells vs. the Machines
+	
+	// Official Compound Words
 	[ "dah a-loh", "sun" ],
 	[ "ay-loh may-lah", "cloud" ],
 	[ "ay-ay lee-koo", "listen", "hear" ],
