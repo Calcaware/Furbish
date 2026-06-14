@@ -1,5 +1,7 @@
 # Furbish/English Translator
 
+[![CI](https://github.com/Calcaware/Furbish/actions/workflows/ci.yml/badge.svg)](https://github.com/Calcaware/Furbish/actions/workflows/ci.yml)
+
 Furby language definitions and translation, now with a React frontend and community features.
 
 Inspired by **[r/furby](https://www.reddit.com/r/furby/)**.
