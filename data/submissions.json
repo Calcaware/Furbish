@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "username": "ab",
+    "furbish": "scatta",
+    "english": "poop",
+    "upvotes": 1,
+    "downvotes": 0,
+    "voters": {
+      "1": "up"
+    },
+    "comments": [],
+    "status": "pending",
+    "createdAt": "2026-06-14T07:34:07.018Z"
+  }
+]

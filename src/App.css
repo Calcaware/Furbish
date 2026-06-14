@@ -1,0 +1,34 @@
+body {
+	background: #f8f6fc;
+}
+
+.navbar-brand {
+	font-size: 1.3rem;
+	letter-spacing: 0.5px;
+}
+
+.card {
+	border: none;
+	border-radius: 12px;
+}
+
+.btn-check:checked + .btn-outline-primary {
+	background: #6f42c1;
+	border-color: #6f42c1;
+	color: #fff;
+}
+
+.btn-outline-primary {
+	color: #6f42c1;
+	border-color: #6f42c1;
+}
+
+.btn-outline-primary:hover {
+	background: #6f42c1;
+	border-color: #6f42c1;
+	color: #fff;
+}
+
+footer a {
+	color: #6f42c1;
+}
